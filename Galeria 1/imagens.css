@@ -1,0 +1,200 @@
+
+td {
+
+    
+
+
+
+
+    height: 120px;
+    width: 120px;
+    border: 4pt solid white;
+
+}
+
+table {
+
+    border-collapse: collapse;
+    margin: auto;
+    border: 20px solid #ffff
+}
+
+#imagem-1 {
+
+
+    background-image: url('imagens/imagem-1.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+
+}
+
+#imagem-2 {
+
+
+    background-image: url('imagens/imagem-2.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+} 
+
+#imagem-3 {
+        background-image: url('imagens/imagem-10.jpg');
+        background-size: 124px;
+        background-size: cover;
+}
+
+#imagem-4 {
+
+
+    background-image: url('imagens/imagem-6.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+}
+
+#imagem-5 {
+
+
+    background-image: url('imagens/imagem-11.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+}
+
+#imagem-6 {
+
+
+    background-image: url('imagens/imagem-3.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+}
+
+#imagem-7 {
+
+
+    background-image: url('imagens/imagem-12.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+}
+
+#imagem-8 {
+
+
+    background-image: url('imagens/imagem-13.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+}
+
+#imagem-9 {
+
+
+    background-image: url('imagens/imagem-9.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+}
+
+#imagem-10 {
+
+
+    background-image: url('imagens/imagem-4.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+
+}
+
+#imagem-11 {
+
+
+    background-image: url('imagens/imagem-14.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+
+}
+
+#imagem-12 {
+
+
+    background-image: url('imagens/imagem-20.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+}
+
+#imagem-13 {
+
+
+    background-image: url('imagens/imagem-7.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+}
+
+#imagem-14 {
+
+
+    background-image: url('imagens/imagem-8.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+}
+
+#imagem-15 {
+
+
+    background-image: url('imagens/imagem-16.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+}
+
+#imagem-16 {
+
+
+    background-image: url('imagens/imagem-19.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+}
+
+#imagem-17 {
+
+
+    background-image: url('imagens/imagem-5.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+}
+
+#imagem-18 {
+
+
+    background-image: url('imagens/imagem-18.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+}
+
+#imagem-19 {
+
+
+    background-image: url('imagens/imagem-17.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+}
+
+#imagem-20 {
+
+
+    background-image: url('imagens/imagem-15.jpg');
+    background-size: 124px;
+    background-size: cover;
+
+}
